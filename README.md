@@ -1,6 +1,6 @@
 # 🌟 Welcome to Vishal Sharma's GitHub Profile! 🌟
 
-![Profile Image](https://your-image-link.com)  <!-- Replace with your actual profile image link -->
+
 
 ## 👤 About Me
 - **Name:** Vishal Sharma
