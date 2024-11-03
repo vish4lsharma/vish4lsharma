@@ -1,6 +1,6 @@
 # 🌟 Welcome to Vishal Sharma's GitHub Profile! 🌟
 
-![Profile Image]([https://your-image-link.com](https://avatars.githubusercontent.com/u/132185380?s=400&u=141c59d49d1f6716ef1a7aa5ea11ca9ffbc3093b&v=4))  <!-- Replace with your actual profile image link -->
+![Profile Image](https://your-image-link.com)  <!-- Replace with your actual profile image link -->
 
 ## 👤 About Me
 - **Name:** Vishal Sharma
@@ -61,7 +61,14 @@ Feel free to reach out via my professional links:
 ## 🛠️ Technologies & Tools
 ![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![C Badge](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![ARCore Badge](https://img.shields.io/badge/ARCore-%2325A5E6.svg?style=flat&logo=google-ar&logoColor=white) 
+![Unity Badge](https://img.shields.io/badge/Unity-%23250000.svg?style=flat&logo=unity&logoColor=white) 
+![Flutter Badge](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
+![Dart Badge](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
+![AI Badge](https://img.shields.io/badge/AI-%2300C4E2.svg?style=flat&logo=ai&logoColor=white) 
+![ML Badge](https://img.shields.io/badge/ML-%2361DAFB.svg?style=flat&logo=ml&logoColor=black) 
 
 ---
 
