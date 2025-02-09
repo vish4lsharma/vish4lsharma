@@ -27,8 +27,8 @@ Here are some of my most notable projects:
 | [CODSOFT](https://github.com/vish4lsharma/CODSOFT)                  | Software development resources and tools. | HTML      |
 | [house_prediction](https://github.com/vish4lsharma/house_prediction) | Predicting house prices using machine learning. | Python      |
 | [prodigyinfotech](https://github.com/vish4lsharma/prodigyinfotech) | Info on various tech solutions and projects. | HTML      |
-| [indoor-navigation-for-railway](https://github.com/vish4lsharma/indoor-navigation-for-railway) | Indoor navigation system for railway stations. | Hackathon |
-| [PrayagrajJunction-indoor-navigation](https://github.com/vish4lsharma/PrayagrajJunction-indoor-navigation) | Hackathon project for indoor navigation. | Hackathon |
+| [indoor-navigation-for-railway](https://github.com/vish4lsharma/indoor-navigation-for-railway) | Indoor navigation system for railway stations. | AR, Flutter/dart/firebase |
+| [PrayagrajJunction-indoor-navigation](https://github.com/vish4lsharma/PrayagrajJunction-indoor-navigation) | Hackathon project for indoor navigation. | CNN, python, dart |
 
 ---
 
