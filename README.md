@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm currently working on **AI-powered Resume Screening Systems**
+- 🔭 I'm currently working on **start up**
 - 🌱 I'm currently learning **Advanced Machine Learning & AR Technologies**
 - 👯 I'm looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, React, AI/ML, AR Development**
