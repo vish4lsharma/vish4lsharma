@@ -62,16 +62,21 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vish4lsharma&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vish4lsharma&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vish4lsharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish4lsharma&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish4lsharma&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish4lsharma&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
