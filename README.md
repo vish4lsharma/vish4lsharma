@@ -1,139 +1,168 @@
 <div align="center">
 
-# 👋 Hi, I'm Vishal Sharma
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1a1a2e&height=200&section=header&text=Vishal%20Sharma&fontSize=60&fontColor=64ffda&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20MERN%20%7C%20AI%20%7C%20System%20Design&descAlignY=58&descSize=18&descColor=8892b0&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=MERN+Stack+Developer+%7C+Full-Stack+Engineer;Cloud+%26+DevOps+Enthusiast;Competitive+Programmer+%7C+Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+MERN+Stack;AI+%26+ML+Systems+Builder;Scalable+System+Design+Architect;Open+to+Opportunities+%40+JPMorgan+%7C+Amazon" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sharma-688080247)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-vishal-ochre.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsharma08555252@gmail.com)
+<br/>
+
+<!-- Profile Views & GitHub Stats Badges -->
+<img src="https://komarev.com/ghpvc/?username=vish4lsharma&label=Profile+Views&color=64ffda&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/vish4lsharma?label=Followers&style=flat-square&color=64ffda&labelColor=0a192f" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Available%20for-Full--Time%20SDE%20Roles-64ffda?style=flat-square&labelColor=0a192f" alt="Status"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34"> About Me
 
 ```typescript
-const vishal = {
-    location: "Bareilly, Uttar Pradesh, India",
-    education: "B.Tech CSE @ AKTU (CGPA: 8.5/10) | Graduating May 2026",
-    currentRole: "MERN Stack Developer @ Avijo (Part-Time)",
-    experience: "8+ months in Full-Stack Development",
-    achievements: [
-        "🏆 TCS CodeVita Top 20,000 National Qualifier",
-        "🥇 Multiple Hackathon Winner (SRMS 1.0/2.0, UCER)",
-        "🏅 Best Engineer Award - SRMS CET",
-        "✅ Smart India Hackathon Shortlisted"
-    ],
-    commits2025: 497,
-    problemsSolved: "200+ DSA Problems",
-    focus: "Building production-ready scalable applications",
-    funFact: "I optimize code faster than I optimize my life! 😄"
+const vishal: SoftwareEngineer = {
+  name        : "Vishal Sharma",
+  role        : "Software Development Engineer (SDE)",
+  location    : "India 🇮🇳",
+  expertise   : ["MERN Stack", "AI/ML Integration", "System Design", "Microservices"],
+  currentFocus: "Building scalable, AI-powered full-stack applications",
+  openTo      : ["JPMorgan Chase", "Amazon", "Top-tier Product Companies"],
+  philosophy  : "Write code that scales to millions — clean, tested, and resilient.",
 };
 ```
 
----
-
-## 💼 Professional Experience
-
-🔹 **MERN Stack Developer** @ Avijo, Indore *(Dec 2025 - Present)*  
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Handling 1000+ concurrent users with JWT-based authentication  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 Achieved 99.9% uptime on AWS EC2 with Nginx reverse proxy  
-&nbsp;&nbsp;&nbsp;&nbsp;⚡ Reduced DB response time by 35% through MongoDB optimization
-
-🔹 **Software Development Intern** @ Triazine Software Pvt. Ltd. *(Jun 2025 - Aug 2025)*  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 Built MERN fitness tracking app with WebSocket integration  
-&nbsp;&nbsp;&nbsp;&nbsp;🔧 Reduced API latency by 30% (2.5s → 1.7s)  
-&nbsp;&nbsp;&nbsp;&nbsp;✅ Achieved 99% bug-free deployment with Jest testing
-
-🔹 **AI/ML Intern** @ Edunet Foundation *(Jan 2023 - Feb 2023)*  
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 Developed NLP-based ATS resume analyzer  
-&nbsp;&nbsp;&nbsp;&nbsp;📈 Improved parsing accuracy by 30%  
-&nbsp;&nbsp;&nbsp;&nbsp;⏱️ Processing 500+ resumes daily
+- 🏗️ **System Design** — Architecting distributed systems that handle millions of requests per second
+- 🤖 **AI Integration** — Building intelligent features using LLMs, RAG pipelines, and vector databases
+- ⚡ **Performance First** — Obsessed with latency, throughput, and reliability at scale
+- 🔐 **Security-Aware** — Implementing OAuth2, JWT, and secure API design patterns
+- 📊 **Data-Driven** — Real-time analytics, caching strategies, and database optimization
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect With Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-vishalsharma--sde.vercel.app-64ffda?style=for-the-badge&labelColor=0a192f)](https://vishalsharma-sde.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalsharma--sde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f)](https://linkedin.com/in/vishalsharma-sde)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-vish4lsharma-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f)](https://github.com/vish4lsharma)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vish4lsharma-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a192f)](https://leetcode.com/u/vish4lsharma/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-vishalsharma0851-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a192f)](https://www.hackerrank.com/profile/vishalsharma0851)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack & Skills
 
-### 🤖 [Sofia AI - Personal AI Assistant](https://sofia-ai-kappa.vercel.app)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://sofia-ai-kappa.vercel.app)
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-Full-stack AI assistant enabling task automation, document analysis, and intelligent query responses
-- ⚛️ **Frontend:** React.js with Redux, Material-UI, smooth animations
-- 🔧 **Backend:** Node.js/Express with structured middleware architecture
-- 🧠 **AI Integration:** OpenAI API for NLP, task automation workflows
-- ⚡ **Performance:** Sub-200ms response time for 10,000+ daily API calls
-- 📊 **Impact:** 500+ monthly active users, 4.8/5 satisfaction rating, 99.9% uptime
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-0a192f?style=for-the-badge&logo=kubernetes&logoColor=64ffda"/>
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML Stack
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipeline-64ffda?style=for-the-badge&logoColor=0a192f"/>
+  <img src="https://img.shields.io/badge/Vector%20DB%20(Pinecone)-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+### ☁️ Cloud, DevOps & System Design
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0a192f?style=for-the-badge&logo=githubactions&logoColor=64ffda"/>
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-### 🎉 [EventXem Wallah - Event Management Platform](https://eventxemwallah.vercel.app)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://eventxemwallah.vercel.app)
+## 🏛️ System Design Expertise
 
-Comprehensive event management platform with role-based access control
-- 📅 **Features:** Event creation, discovery, registration, QR code generation
-- 🔐 **Security:** JWT authentication, RBAC (Admin, Organizer, Attendee)
-- 📧 **Automation:** Nodemailer integration for email notifications
-- 💾 **Database:** MongoDB with indexing for 1000+ events, 5000+ users
-- 🚀 **Performance:** 40% reduction in page load time through optimization
+> *Designing systems that are resilient, scalable, and maintainable — principles I apply inspired by engineering at companies like Amazon and JPMorgan.*
 
----
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                     SYSTEM DESIGN CAPABILITIES                          │
+├────────────────────────┬────────────────────────────────────────────────┤
+│  📐 Architectural       │  Microservices, Event-Driven, CQRS, Saga       │
+│  Patterns               │  Pattern, Domain-Driven Design (DDD)           │
+├────────────────────────┼────────────────────────────────────────────────┤
+│  ⚡ Scalability         │  Horizontal scaling, Load Balancing,           │
+│                        │  Sharding, Partitioning, CDN strategies        │
+├────────────────────────┼────────────────────────────────────────────────┤
+│  🔁 Reliability         │  Circuit Breakers, Retries, Idempotency,       │
+│                        │  CAP Theorem, Eventual Consistency             │
+├────────────────────────┼────────────────────────────────────────────────┤
+│  🚀 Performance         │  Redis Caching, DB Indexing, Query Opt,        │
+│                        │  Rate Limiting, Connection Pooling             │
+├────────────────────────┼────────────────────────────────────────────────┤
+│  🔐 Security            │  OAuth 2.0, JWT, HTTPS/TLS, Input Validation,  │
+│                        │  OWASP principles, Encryption at rest/transit  │
+├────────────────────────┼────────────────────────────────────────────────┤
+│  🤖 AI Systems          │  LLM Orchestration, RAG Architecture,          │
+│                        │  Vector Search, Prompt Engineering, AI APIs   │
+└────────────────────────┴────────────────────────────────────────────────┘
+```
 
-### 📊 [Company Project Management System](https://company-project-management-1.onrender.com)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=render)](https://company-project-management-1.onrender.com)
-
-Enterprise-grade project management application with real-time collaboration
-- 📈 **Analytics:** Data visualization for project tracking and team performance
-- 🔄 **Real-time:** WebSocket connections for live task updates
-- 👥 **Access Control:** Multi-tier authentication (Admin, Manager, Employee)
-- ⚡ **Scalability:** Handles 100+ concurrent users, 1000+ daily operations
-- 🐳 **Deployment:** Docker containerization on Render
+**Systems I Can Design:**
+- 🏦 **Payment & Financial Systems** — Low-latency, high-availability transaction engines
+- 🛒 **E-commerce Platforms** — Real-time inventory, order management at Amazon scale
+- 💬 **Real-Time Chat Apps** — WebSocket-based messaging with 10M+ concurrent users
+- 🔍 **Search Engines** — Elasticsearch-powered full-text search with ranking algorithms
+- 📊 **Analytics Dashboards** — Streaming pipelines with Kafka + real-time aggregation
+- 🤖 **AI-Powered SaaS** — RAG pipelines, chatbots, intelligent recommendation systems
 
 ---
 
@@ -141,129 +170,134 @@ Enterprise-grade project management application with real-time collaboration
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vish4lsharma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish4lsharma&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vish4lsharma&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish4lsharma&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&langs_count=8"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vish4lsharma&theme=radical" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish4lsharma&theme=react&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" alt="GitHub Streak"/>
 </div>
 
-### 📈 Contribution Graph
-
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vish4lsharma&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vish4lsharma&theme=radical&no-frame=true&row=1&column=7)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vish4lsharma&theme=react-dark&hide_border=true&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
 
-## 📈 2025 Coding Journey
+## 🏆 Competitive Programming
 
 <div align="center">
 
-```text
-Total Commits in 2025:  497  ████████████████████████░  95%
-Projects Completed:     15+  ████████████████████░░░░  80%
-Code Reviews:           50+  ████████████████░░░░░░░░  65%
-Contributions:          Daily████████████████████████  100%
+| Platform | Profile | Achievements |
+|:--------:|:-------:|:------------:|
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/> | [@vish4lsharma](https://leetcode.com/u/vish4lsharma/) | DSA · Algorithms · Problem Solving |
+| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/> | [@vishalsharma0851](https://www.hackerrank.com/profile/vishalsharma0851) | Certified · Problem Solving · SQL |
+
+</div>
+
+**Core DSA Strengths:**
+
+```
+✅ Arrays, Strings, LinkedLists, Trees, Graphs
+✅ Dynamic Programming & Greedy Algorithms  
+✅ Sliding Window, Two Pointers, Binary Search
+✅ Stack, Queue, Heap, Trie, Segment Trees
+✅ BFS/DFS, Topological Sort, Dijkstra's Algorithm
+✅ Time & Space Complexity Analysis (Big-O)
 ```
 
-</div>
+---
+
+## 🎯 Why Hire Me?
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💼 JPMorgan Chase Alignment</h3>
+      <ul align="left">
+        <li>🏦 Strong understanding of financial systems & low-latency APIs</li>
+        <li>🔐 Security-first mindset: OAuth, encryption, compliance-aware design</li>
+        <li>📊 Real-time data processing & analytics pipelines</li>
+        <li>🧪 Test-driven development & code quality discipline</li>
+        <li>🏛️ Enterprise-grade microservices with Spring-like patterns in Node.js</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛒 Amazon (Leadership Principles)</h3>
+      <ul align="left">
+        <li>🚀 <strong>Customer Obsession</strong> — Build for users, not just specs</li>
+        <li>📈 <strong>Deliver Results</strong> — Ship fast, iterate, measure impact</li>
+        <li>🔭 <strong>Think Big</strong> — Design for 10x scale from day one</li>
+        <li>💡 <strong>Invent & Simplify</strong> — AI-powered solutions to complex problems</li>
+        <li>🧭 <strong>Ownership</strong> — End-to-end responsibility from design to deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 2026 Goals
+## 🚀 Featured Projects
 
-- 🚀 Contribute to Open Source Projects (Target: 100+ contributions)
-- 📚 Master System Design and Microservices Architecture
-- ☁️ Achieve AWS Solutions Architect Certification
-- 🤝 Mentor Junior Developers and Share Knowledge
-- 🏆 Participate in Major Hackathons and Competitive Programming Contests
+> *Each project demonstrates production-level thinking — scalability, performance, and clean architecture.*
 
----
+### 🤖 AI-Powered Full-Stack Application
+`MERN · OpenAI API · LangChain · RAG · Redis · Docker`
+> Intelligent chatbot with Retrieval-Augmented Generation, context-aware responses, and real-time streaming — designed for enterprise SaaS deployment.
 
-## 🏆 Achievements & Certifications
+### 🛒 E-Commerce Platform at Scale
+`React · Node.js · MongoDB · Redis · Kafka · AWS`
+> Full-featured marketplace with real-time inventory management, payment gateway integration, and event-driven order processing pipeline handling thousands of concurrent users.
 
-🥇 **TCS CodeVita** - Top 20,000 National Qualifier (Top 20% among 100,000+ participants)  
-🏅 **Best Engineer Award** - SRMS College of Engineering and Technology  
-🥇 **Hackathon Winner** - SRMS Hackathon 1.0 & 2.0 (1st Prize)  
-🥇 **Hackathon Winner** - UCER Prayagraj (1st Prize)  
-✨ **Smart India Hackathon** - Shortlisted (Top 1% of submissions)
+### 📊 Real-Time Analytics Dashboard
+`Next.js · WebSockets · PostgreSQL · Elasticsearch · Docker`
+> Live data visualization platform with streaming ingestion, complex aggregations, and millisecond-latency query responses for business intelligence use cases.
 
-### 📜 Certifications
-- ✅ Introduction to Generative AI - Google Cloud (Coursera)
-- ✅ Prompt Engineering with GitHub Copilot - Microsoft
-- ✅ Introduction to Machine Learning - Microsoft Learn
-- ✅ AWS APAC Solutions Architecture Job Simulation - AWS via Forage
+### 🔐 Secure Authentication System
+`Node.js · JWT · OAuth2 · Redis · Rate Limiting`
+> Enterprise-grade auth service with multi-factor authentication, session management, role-based access control (RBAC), and brute-force protection.
 
 ---
 
-## 💡 Competitive Programming
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████░░░░░░   48%
+TypeScript   ██████░░░░░░░░░░░░   22%
+Python       ████░░░░░░░░░░░░░░   16%
+CSS/SCSS     ██░░░░░░░░░░░░░░░░    8%
+Other        █░░░░░░░░░░░░░░░░░    6%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🏅 GitHub Trophies
 
 <div align="center">
-
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Rating](https://img.shields.io/badge/Rating-1600%2B-success?style=for-the-badge)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on interesting projects or discuss tech!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sharma-688080247)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-vishal-ochre.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsharma08555252@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vish4lsharma)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
-### 🎵 Currently Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4yq5kcwcz5qqt2j7qn25hzfiy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=vish4lsharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-### ⭐️ From [vish4lsharma](https://github.com/vish4lsharma) with ❤️
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vish4lsharma&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad!"** – Cory House
+### 💬 Open to Opportunities
+
+**I'm actively seeking SDE roles at top-tier companies.**  
+*Specialized in MERN Stack, AI Systems, and Scalable Architecture.*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-vishalsharma--sde.vercel.app-64ffda?style=for-the-badge&labelColor=0a192f)](https://vishalsharma-sde.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/📩_Connect_on_LinkedIn-vishalsharma--sde-0077B5?style=for-the-badge&labelColor=0a192f)](https://linkedin.com/in/vishalsharma-sde)
+
+<br/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:112240,100:0a192f&height=120&section=footer"/>
 
 </div>
