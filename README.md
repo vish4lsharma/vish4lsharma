@@ -31,7 +31,6 @@ const vishal: SoftwareEngineer = {
   location    : "India 🇮🇳",
   expertise   : ["MERN Stack", "AI/ML Integration", "System Design", "Microservices"],
   currentFocus: "Building scalable, AI-powered full-stack applications",
-  openTo      : ["JPMorgan Chase", "Amazon", "Top-tier Product Companies"],
   philosophy  : "Write code that scales to millions — clean, tested, and resilient.",
 };
 ```
